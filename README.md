@@ -127,10 +127,10 @@ This project demonstrates the application of Machine Learning techniques to pred
    cd Customer-Transaction-Prediction
    ```
 
-3. Install the required libraries:
+3. Install Dependencies:
 
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
+   pip install -r requirements.txt
    ```
 
 4. Open Jupyter Notebook:
